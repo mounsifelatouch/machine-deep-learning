@@ -1,2 +1,2 @@
-# Machine-Learning-Courses-and-TPs
-This GitHub repository contains a collection of machine learning courses and practical assignments.
+# Machine/ deep learning 
+This GitHub repository contains a collection of machine/ deep learning projects and practical assignments.
